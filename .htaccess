@@ -1,0 +1,5 @@
+AuthName "webSite"
+AuthType Basic
+AuthUserFile /.htpasswd
+
+Require valid-user
